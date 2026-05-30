@@ -25,4 +25,5 @@ def main():
     print('.......TTTT............MM...MM...MM................SSSS.....')
     print('.......TTTT.......**...MM...MM...MM...**....SSSSSSSSSSS...**')
     print('.......TTTT.......**...MM...MM...MM...**....SSSSSSSSSS....**')   
+    print('')
 main()
