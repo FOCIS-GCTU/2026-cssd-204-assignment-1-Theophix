@@ -12,6 +12,7 @@
 
 def main():
     # This main function prints the initials of my name in block letters
+    print('')
     print('...TMS')
     print('')
     print('...TTTTTTTTTTTT........MMMM....MMMM..........SSSSSSSSSS.....')
