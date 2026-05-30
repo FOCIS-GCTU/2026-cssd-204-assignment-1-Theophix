@@ -23,6 +23,6 @@ def main():
     print('.......TTTT............MM..MMMM..MM.............SSSSSS......')
     print('.......TTTT............MM..MMMM..MM................SSSS.....')
     print('.......TTTT............MM...MM...MM................SSSS.....')
-    print('.......TTTT.......**...MM...MM...MM...**....SSSSSSSSSSS.....')
-    print('.......TTTT.......**...MM...MM...MM...**....SSSSSSSSSS......')   
+    print('.......TTTT.......**...MM...MM...MM...**....SSSSSSSSSSS...**')
+    print('.......TTTT.......**...MM...MM...MM...**....SSSSSSSSSS....**')   
 main()
